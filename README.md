@@ -86,7 +86,7 @@ Fonte dos dados: [Portal de Dados Abertos da CVM](https://dados.cvm.gov.br/) (DF
 
 ## Próximos passos
 
-- [ ] Orquestração com **Databricks Workflows** (execução agendada de ponta a ponta)
+- [x] Orquestração com **Databricks Workflows** (execução agendada de ponta a ponta)
 - [ ] Carga **incremental com `MERGE`** em vez de sobrescrita
 - [ ] Inclusão dos **ITRs** (dados trimestrais)
 - [ ] **Dashboard** comparando empresas e setores
